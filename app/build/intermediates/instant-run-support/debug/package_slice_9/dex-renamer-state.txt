@@ -1,0 +1,4 @@
+#Mon Sep 25 12:55:16 CDT 2017
+base.0=/Users/drwill/AndroidStudioProjects/FragmentBasics/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_9
+renamed.0=classes.dex
+file.0=/Users/drwill/AndroidStudioProjects/FragmentBasics/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_9/classes.dex
